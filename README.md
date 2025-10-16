@@ -59,3 +59,9 @@ Developed by: RegisterNumber:*/
 **Output/TIMING Waveform**
 
 **Result:**
+HALF ADDER:
+
+<img width="1402" height="1079" alt="image" src="https://github.com/user-attachments/assets/fabb7adc-3019-40d0-a542-f752bedeebe0" />
+HALF SUBTRACTOR:
+<img width="1388" height="1079" alt="image" src="https://github.com/user-attachments/assets/dca4826b-3fd0-4c75-95bd-3e3504095891" />
+
